@@ -10,5 +10,8 @@ dim_geo      ─┘          │
                          ├── order_id ──< fact_payments
                          └── order_id ──< fact_reviews
 
+<img width="1526" height="1451" alt="image" src="https://github.com/user-attachments/assets/7c197108-ffd6-40c6-8349-6fd3765121fb" />
+
+
 
 
