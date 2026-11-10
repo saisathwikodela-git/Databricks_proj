@@ -9,6 +9,6 @@ dim_seller   ─┼──< fact_order_items >── dim_date
 dim_geo      ─┘          │
                          ├── order_id ──< fact_payments
                          └── order_id ──< fact_reviews
-<img width="3748" height="3402" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/53a0c66a-52ee-4ae9-aa1f-51b767eef65d" />
+
 
 
